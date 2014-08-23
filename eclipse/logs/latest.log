@@ -1,0 +1,11 @@
+[21:22:29] [main/INFO]: Setting user: ForgeDevName
+[21:22:33] [Client thread/INFO]: LWJGL Version: 2.9.1
+[21:22:49] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Smelter armour mod
+[21:22:50] [Sound Library Loader/INFO]: Sound engine started
+[21:22:56] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[21:22:57] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[21:22:57] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Smelter armour mod
+[21:22:57] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[21:22:58] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[21:22:59] [Sound Library Loader/INFO]: Sound engine started
+[21:23:19] [Client thread/INFO]: Stopping!

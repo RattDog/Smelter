@@ -1,0 +1,19 @@
+[
+{
+  "modid": "Smelter",
+  "name": "Smelter armour mod",
+  "description": "Allows iron, chainmail, and gold armor to be broken down into metal ingots.",
+  "version": "1.0",
+  "credits": "Created by RattDog",
+  "logoFile": "",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": [ "RattDog" ],
+  "parent":"",
+  "screenshots": [],
+  "dependencies": [
+	 "mod_MinecraftForge"
+]
+}
+]
